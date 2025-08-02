@@ -19,7 +19,7 @@ A modern and responsive real estate web application built with React.js, allowin
 🧾 Property Booking or Favorite Option (Optional)
 
 🛠️ Tech Stack:
-Frontend: React.js, Tailwind CSS / Bootstrap
+Frontend: React.js, Tailwind CSS / Bootstrap;
 Authentication: JWT / Clerk / Firebase Auth
 
 APIs: Google Maps API (optional), Axios
